@@ -15,7 +15,7 @@ Abaixo, apresento os registros do processo de desenvolvimento, comprovando a org
 ### 1. Curadoria e Estruturação
 Conectei fontes de alta credibilidade, como o **Banco Central do Brasil (BCB)** e a **CVM**, organizando o conhecimento em 5 notas lógicas no Estúdio do NotebookLM.
 
-![Interface do Projeto](./assets/evidenciasprint_projeto.jpg)
+![Interface do Projeto](./assets/evidenciasprint_projeto.jpg.jpg)
 *Figura 1: IA consolidando conceitos como SELIC, CDI e Reserva de Emergência. *
 
 ### 2. Geração de Glossário Estratégico
