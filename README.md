@@ -7,11 +7,23 @@ Este repositório contém o resultado do desafio prático de curadoria e organiz
 
 ## 📸 Metodologia e Evidências
 
-Para este trabalho, utilizei o NotebookLM não apenas como um chat, mas como um **Estúdio de Aprendizagem**. Abaixo, descrevo o que os registros do processo representam:
+Para este trabalho, utilizei o NotebookLM não apenas como um chat, mas como um **Estúdio de Aprendizagem**. 
+Abaixo, descrevo o que os registros do processo representam:
 Para comprovar a metodologia utilizada, apresento os registros da interface de trabalho:
+Abaixo, apresento os registros do processo de desenvolvimento, comprovando a organização técnica e o uso de fontes oficiais:
 
-![Interface do Projeto](./assets/image_2f6423.jpg)
-*Figura 1: Notas estruturadas e fontes oficiais conectadas.*
+### 1. Curadoria e Estruturação
+Conectei fontes de alta credibilidade, como o **Banco Central do Brasil (BCB)** e a **CVM**, organizando o conhecimento em 5 notas lógicas no Estúdio do NotebookLM.
+
+![Interface do Projeto](./assets/evidenciasprint_projeto.jpg)
+*Figura 1: IA consolidando conceitos como SELIC, CDI e Reserva de Emergência. *
+
+### 2. Geração de Glossário Estratégico
+Utilizei engenharia de prompts para converter termos técnicos em uma tabela didática e acessível.
+
+![Processo de Geração](./assets/evidenciasprint_projetoemandamento.jpg)
+*Figura 2: Notas estruturadas (01 a 05) e fontes oficiais conectadas.*
+
 
 ---
 
